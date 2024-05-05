@@ -19,7 +19,8 @@ I'm proud to have contributed to this project and look forward to discussing its
 
 By following these tips, you can effectively explain your project on LinkedIn and highlight your skills, achievements, and expertise to potential employers, collaborators, or industry peers.
 
-code:-
+if you want to download code in jupyter notebook use following link:
+https://github.com/Aditya77-cyber/Project/edit/main/README.md
 User
 email = input("Enter your email: ")  # Example: g@g.in, wscube@gmail.com
 k, j, d = 0, 0, 0
@@ -56,3 +57,8 @@ if len(email) >= 6:
 else:
     print("Wrong Email 1")
 
+I'm passionate about leveraging technology to solve real-world challenges and am excited to lead this project towards enhancing data integrity and user experience. #LeadDeveloper #EmailValidation #DataIntegrity #SoftwareEngineering"
+
+By highlighting your responsibilities, leadership skills, and technical expertise, you can effectively showcase your role as a Lead Developer in the email validation module project on LinkedIn.
+
+In conclusion, the provided Python script serves the purpose of validating email addresses entered by users. It checks various criteria such as length, format, and the presence of specific characters to determine the validity of an email address. However, there are some limitations and areas for improvement in the code.
